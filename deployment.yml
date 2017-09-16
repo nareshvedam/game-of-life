@@ -1,0 +1,3 @@
+- hosts: appserver
+  roles:
+     - role: /home/naresh/ansible/roles/deployment
